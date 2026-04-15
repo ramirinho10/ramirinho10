@@ -1,4 +1,4 @@
-## Hola, mi nombre es Ramiro Silva
+## Me llamo Ramiro Silva Pedreros, soy un profesional de sistemas en proceso de transición hacia el mundo de la Ciencia de Datos. Me apasiona trabajar con datos y encontrar patrones que ayuden a tomar mejores decisiones
  <div align-items="justify-content: center;">  
   <a href="https://github.com/ramirinho10">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ramirinho10&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
